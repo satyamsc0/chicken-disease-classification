@@ -59,6 +59,12 @@ open up you local host and port
 
 
 
+### Tensorboard:
+```bash
+tensorboard --logdir artifacts/prepare_callbacks/tensorboard_log_dir/
+```
+
+
 
 # AZURE-CICD-Deployment-with-Github-Actions
 
