@@ -2,6 +2,7 @@ import os
 import sys
 import logging
 
+#to check logging data and no requirement of repeated  calling
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 
 log_dir = "logs"
