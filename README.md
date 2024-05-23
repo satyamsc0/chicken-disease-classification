@@ -2,6 +2,7 @@
 End-to-end project CNN based project, also demonstrating the MLOps practices, along with deployment.
 
 
+
 ## Workflows
 
 1. Update config.yaml
